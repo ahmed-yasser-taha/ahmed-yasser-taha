@@ -142,8 +142,8 @@ class AIEngineer:
 ---
 
 ## 📫 Connect With Me
-📧 **ismailalyan1234@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/ismail-elyan-703227275)
+📧 **ahmed.yasser.taha.sayed@gmail.com**  
+🔗 [LinkedIn](www.linkedin.com/in/ahmed-yasser-taha-sayed)
 
 ---
 
