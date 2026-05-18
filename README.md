@@ -136,27 +136,27 @@ class AIEngineer:
 
 ## 🎓 Certifications
 
-## 🏆 DeepLearning.AI
+##  DeepLearning.AI
 
-* ✅ Machine Learning Specialization
-* ✅ Supervised Machine Learning: Regression and Classification
-* ✅ Advanced Learning Algorithms
-* ✅ Unsupervised Learning, Recommenders, Reinforcement Learning
+*  Machine Learning Specialization
+*  Supervised Machine Learning: Regression and Classification
+*  Advanced Learning Algorithms
+*  Unsupervised Learning, Recommenders, Reinforcement Learning
 
-## 🏛️ Information Technology Institute (ITI)
+## Information Technology Institute (ITI)
 
-* ✅ Practical Machine Learning for Data Scientists
-* ✅ Applied Deep Learning
-* ✅ Deep Learning for Natural Language Processing
-* ✅ NLP Applications
+*  Practical Machine Learning for Data Scientists
+*  Applied Deep Learning
+*  Deep Learning for Natural Language Processing
+*  NLP Applications
 
-## 🌍 Additional Certifications
+##  Additional Certifications
 
-* ✅ Fundamentals of Deep Learning — NVIDIA
-* ✅ AI For Everyone
-* ✅ Machine Learning with Python
-* ✅ NLP Training — NTI
-* ✅ Computer Vision Training — NAID
+*  Fundamentals of Deep Learning — NVIDIA
+*  AI For Everyone
+*  Machine Learning with Python
+*  NLP Training — NTI
+*  Computer Vision Training — NAID
 
   
 ---
